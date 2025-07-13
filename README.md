@@ -1,28 +1,21 @@
-# 👋 Hi, I'm AkinRain! 
+# <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9b/Grass_Block_%28texture%29_JE5.png" alt="Minecraft Grass Block" width="30" height="30"/> Greetings, I'm AkinRain! <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9b/Grass_Block_%28texture%29_JE5.png" alt="Minecraft Grass Block" width="30" height="30"/>
 
-> **Minecraft Enthusiast & Aspiring Collaborator** 🌍
+> **Block Builder • Word Learner • Xbox Explorer**
 
-[![Pronouns: a ba a ba](https://img.shields.io/badge/Pronouns-a_ba_a_ba-ff69b4?style=flat-square)](https://pronoun.is/a%20ba%20a%20ba) [![Platform: Xbox](https://img.shields.io/badge/Platform-Xbox-107C10?style=flat-square&logo=xbox)](https://www.xbox.com/) [![Currently Learning](https://img.shields.io/badge/Learning-English-blue?style=flat-square&logo=duolingo)](https://www.duolingo.com/)
-
----
-
-## 🔍 About Me
-
-*   🎮 **Core Passion:** Deeply immersed in the boundless creativity of **Minecraft**. Exploring, building, surviving, and modding!
-*   📚 **Current Focus:** Actively leveling up my **English** language skills. Open to practice partners!
-*   🤝 **Collaboration Goal:** Seeking fellow gamers to team up on exciting **Xbox** titles, especially within the Minecraft universe or similar sandbox/adventure games.
-*   😄 **My Vibe:** Friendly, curious, and always up for a fun challenge. My pronouns are **a ba a ba**.
-*   ⚡ **Fun Fact:** My favorite way to unwind and express creativity is by diving into a **Minecraft** world.
+| Interest       | Currently         | Goal              | Contact Me         |
+| :------------- | :---------------- | :---------------- | :----------------- |
+| 🧱 **Minecraft** | 📖 **Learning English** | 🤝 **Xbox Collabs** | ✉️ [570848069@qq.com](mailto:570848069@qq.com) |
 
 ---
 
-## 💌 Get In Touch
+### 🗺️ My World
 
-*   **Preferred Contact:** The best way to reach me is via email:
-    [![Email](https://img.shields.io/badge/Email-570848069@qq.com-important?style=flat-square&logo=gmail)](mailto:570848069@qq.com)
-*   💬 Open to discussing Minecraft builds, game collaboration opportunities, or language exchange!
+*   **⛏️ Passion Project:** Crafting amazing adventures and structures in **Minecraft** is my ultimate joy.
+*   **📚 Skill Upgrade:** Dedicated to mastering **English** - one word, one phrase at a time.
+*   **🎮 Multiplayer Quest:** Actively searching for awesome people to join forces with on **Xbox**. Let's conquer achievements together!
+*   **😊 Identity:** You can refer to me as **a ba a ba**. Nice to meet you!
+*   **⚡ Fun Discovery:** Did you know? My happy place is definitely inside a **Minecraft** server. Pure magic!
 
 ---
 
-### ✨ About This Profile
-> This GitHub profile (`AkinRain5828258/AkinRain5828258`) is special ✨ because it's the starting point of my digital journey. The `README.md` you're reading right now is the heart of it! Clicking the "Preview" link lets you see how these changes come to life.
+> **✨ Profile Lore:** This repository is special ✨ because it's the bedrock of my GitHub presence. The `README.md` is like the spawn point! The "Preview" link reveals how these words shape the world you see.
