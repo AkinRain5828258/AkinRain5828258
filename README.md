@@ -1,21 +1,29 @@
-# <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9b/Grass_Block_%28texture%29_JE5.png" alt="Minecraft Grass Block" width="30" height="30"/> Greetings, I'm AkinRain! <img src="https://static.wikia.nocookie.net/minecraft_gamepedia/images/9/9b/Grass_Block_%28texture%29_JE5.png" alt="Minecraft Grass Block" width="30" height="30"/>
+# 👋 Welcome! I'm AkinRain
 
-> **Block Builder • Word Learner • Xbox Explorer**
+**Game Devotee | Language Learner | Collaborative Gamer**
 
-| Interest       | Currently         | Goal              | Contact Me         |
-| :------------- | :---------------- | :---------------- | :----------------- |
-| 🧱 **Minecraft** | 📖 **Learning English** | 🤝 **Xbox Collabs** | ✉️ [570848069@qq.com](mailto:570848069@qq.com) |
+[![Email](https://img.shields.io/badge/-Contact_Me-570848069@qq.com-informational?style=for-the-badge&logo=gmail)](mailto:570848069@qq.com) [![Pronouns](https://img.shields.io/badge/Pronouns-a_ba_a_ba-ff69b4?style=for-the-badge)](https://pronoun.is/a%20ba%20a%20ba)
 
 ---
 
-### 🗺️ My World
+## 🎯 My Focus Areas
 
-*   **⛏️ Passion Project:** Crafting amazing adventures and structures in **Minecraft** is my ultimate joy.
-*   **📚 Skill Upgrade:** Dedicated to mastering **English** - one word, one phrase at a time.
-*   **🎮 Multiplayer Quest:** Actively searching for awesome people to join forces with on **Xbox**. Let's conquer achievements together!
-*   **😊 Identity:** You can refer to me as **a ba a ba**. Nice to meet you!
-*   **⚡ Fun Discovery:** Did you know? My happy place is definitely inside a **Minecraft** server. Pure magic!
+*   **🔥 Core Interest:** **Minecraft** - Building, Exploring, Redstone-ing, Surviving!
+*   **🌱 Active Growth:**
+    ```diff
+    + English Proficiency: █████████░░░░ 60% [In Progress]
+    ```
+*   **🤝 Collaboration Target:** Teaming up for fun on **Xbox Games** (Minecraft, Sea of Thieves, Halo, Forza? Let's chat!)
+*   **😄 Pronouns:** a ba a ba
+*   **💡 Fun Fact:** My go-to creative outlet and stress reliever is always **playing Minecraft**.
 
 ---
 
-> **✨ Profile Lore:** This repository is special ✨ because it's the bedrock of my GitHub presence. The `README.md` is like the spawn point! The "Preview" link reveals how these words shape the world you see.
+### 📬 Connect With Me
+
+*   **Primary Channel:** [570848069@qq.com](mailto:570848069@qq.com) - Feel free to drop me a line about games, collabs, or language!
+*   **Looking For:** Opportunities to collaborate on interesting Xbox game projects, discuss Minecraft builds/ideas, or practice English conversation.
+
+---
+
+> **🌟 Why this Repo is ✨Special✨:** This profile repository (`AkinRain5828258/AkinRain5828258`) is the foundation. Its `README.md` (this file!) defines my GitHub identity. Use the "Preview" link to see the magic happen!
